@@ -15,6 +15,7 @@ module.exports = {
         src: 'https://conektica.com/ads/wp-content/themes/conektica20/assets/img/logo-mini.png',
       },
       links: [
+        //Menú correo electronico
         {
           to: 'docs/mail-outlook-ios',
           activeBasePath: 'docs/mail-outlook-ios',
@@ -30,12 +31,18 @@ module.exports = {
 
         //Menú Ecommerce
         {
-        to: 'docs/ecommerce-administracion-de-la-tienda',
-        activeBasePath:'docs/ecommerce-administracion-de-la-tienda' ,
-        label: 'Páginas web',
-        position: 'left',
-         },
-        
+          to: 'docs/ecommerce-administracion-de-la-tienda',
+          activeBasePath:'docs/ecommerce-administracion-de-la-tienda' ,
+          label: 'Páginas web',
+          position: 'left',
+        },
+        //Menú Facturación
+        {
+          to: 'docs/facturation-data',
+          activeBasePath:'docs/facturation-data' ,
+          label: 'Facturación',
+          position: 'left',
+        },
         //Menú correo electronico
         /* {to: 'blog', label: 'Correo electronico', position: 'left'},
         {
