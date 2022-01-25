@@ -52,12 +52,12 @@ En **Datos del cupón**, hay tres secciones que puedes usar para agregar restric
 
 
 -   **Tipo de descuento**:
-    -   **Descuento en porcentaje**: un descuento porcentual solo para productos seleccionados. Por ejemplo, si el carrito contiene tres (3) camisetas a $20 cada una = $60, un cupón de 10% de descuento aplica un descuento de $ 6.
-    -   **Descuento fijo en el carrito**: un descuento total fijo para todo el carrito. Por ejemplo, si el carrito contiene tres (3) camisetas a $20 cada una = $60, un cupón de $10 de descuento ofrece un descuento de $ 10.
-    -   **Descuento fijo de producto**: un descuento total fijo solo para productos seleccionados. El cliente recibe una cantidad establecida de descuento por artículo. Por ejemplo, tres (3) camisetas a $ 20 cada una con un cupón de $ 10 de descuento aplica un descuento de $ 30 (10 por artículo).
+    -   **Descuento en porcentaje**: un descuento porcentual solo para productos seleccionados.
+    -   **Descuento fijo en el carrito**: un descuento total fijo para todo el carrito.
+    -   **Descuento fijo de producto**: un descuento total fijo solo para productos seleccionados.
 -   **Importe del cupón**: valor fijo o porcentaje, según el tipo de descuento que elijas. Se ingresa sin una unidad monetaria o un signo de porcentaje, los cuales se agregan automáticamente.
 -   **Permitir el envío gratuito**: elimina el costo de envío cuando se utiliza el cupón. Requiere que el envío gratuito esté habilitado.
--   **Fecha de caducidad del cupón**: fecha en que el cupón debe caducar y ya no se puede usar. La caducidad ocurre a las 12:00 a.m. o a las 00:00 en la fecha elegida. Si deseas que un cupón sea válido hasta el día de Navidad pero no válido en el momento en que termine la Navidad, establece la fecha de vencimiento en AAAA-12-26, ya que caducará el AAAA-12-26 00:00. Se utiliza la configuración de zona horaria de tu sitio en **Ajustes > Generales > Zona horaria**.
+-   **Fecha de caducidad del cupón**: fecha en que el cupón debe caducar y ya no se puede usar. La caducidad ocurre a las 12:00 a.m. o a las 00:00 en la fecha elegida.
 
 ### Restricción de uso
 
@@ -71,7 +71,7 @@ En **Datos del cupón**, hay tres secciones que puedes usar para agregar restric
 -   **Productos excluidos**: productos a los que no se aplicará el cupón o que no pueden estar en el carrito para que se aplique el “descuento fijo en el carrito”.
 -   **Categorías del producto**: categorías de productos a las que se aplicará el cupón o que deben estar en el carrito para que se aplique el descuento fijo o porcentual.
 -   **Excluir categorías**: categorías de productos a las que no se aplicará el cupón, o que no pueden estar en el carrito para que se aplique el “descuento fijo en el carrito”.
--   **Correos electrónicos permitidos**: dirección (o direcciones) de correo electrónico que pueden usar un cupón. Verificado contra el correo electrónico de facturación del cliente. WooCommerce 3.4+ también te permite incluir un carácter comodín (*) para que coincida con varias direcciones de correo electrónico, por ejemplo, *@gmail.com haría que el cupón funcione con cualquier dirección de Gmail.
+-   **Correos electrónicos permitidos**: dirección (o direcciones) de correo electrónico que pueden usar un cupón. Verificado contra el correo electrónico de facturación del cliente. También te permite incluir un carácter comodín "*" para que coincida con varias direcciones de correo electrónico, por ejemplo, *@gmail.com haría que el cupón funcione con cualquier dirección de Gmail.
 
 **Nota: Dejar "Productos" y "Excluir productos" en blanco permite que el cupón se aplique a toda la tienda.**
 
