@@ -26,13 +26,13 @@ Ahora que los cupones se activaron es momento de agregar cupones nuevos.
 
 **Para añadir un cupón:**
 
-Ve a : Marketing > Cupones.
+Ve a: Marketing > Cupones.
 
--   Una pagina nueva, donde no se hayan creado cupones, te mostrará una pantalla inicial que te permite crear tu primer cupón u obtener más información.
+-   Una página nueva, donde no se hayan creado cupones, te mostrará una pantalla inicial que te permite crear tu primer cupón u obtener más información.
 
 <img alt="" src="https://conektica.com/ayuda/img/Cupones/add-paso1.png" width="100%"/>
 
--   Una pagina donde ya se crearon cupones, te mostrará una pantalla que te permite crear tu primer cupón o editar los que están creados.
+-   Una página donde ya se crearon cupones, te mostrará una pantalla que te permite crear tu primer cupón o editar los que están creados.
 
 <img alt="" src="https://conektica.com/ayuda/img/Cupones/add-paso1.1.png" width="100%"/>
 
